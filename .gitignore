@@ -1,0 +1,7 @@
+/bin/
+/Include/
+/Lib/
+/Scripts/
+
+/*.sublime-workspace
+/pyvenv.cfg
